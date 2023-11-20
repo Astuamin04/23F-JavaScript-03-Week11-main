@@ -3,35 +3,61 @@
     "headOffice": "North Pole",
     "established": 2023,
     "active": true,
-    "topFlavors": [{
-        "name": "Chocolate Mint",
-        "calories": 300,
-        "type": "ice-cream",
-        "ingredients": [
-            "Chocolate Syrup",
-            "Peppermint Sprinkle",
-            "Vanilla Base"
-        ],
-        "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/blob/main/images/chocolate-mint.svg"
-    }, {
-        "name": "Peach Mango",
-        "calories": 350,
-        "type": "milshake-type ice-cream",
-        "ingredients": [
-            "Peach Syrup",
-            "Mango Chunks",
-            "Vanilla Base"
-        ],
-        "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/blob/main/images/peach-mango.svg"
-    }, {
-        "name": "Strawberry Sprinkle",
-        "calories": 400,
-        "type": "ice-cream",
-        "ingredients": [
-            "Strawberry Chunks",
-            "Sprinkles",
-            "Vanilla Base"
-        ],
-        "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/blob/main/images/strawberry-sprinkle.svg"
-    }]
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Syrup",
+                "Peppermint Sprinkle",
+                "Vanilla Base"
+            ],
+            "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/blob/main/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 350,
+            "type": "milshake-type ice-cream",
+            "ingredients": [
+                "Peach Syrup",
+                "Mango Chunks",
+                "Vanilla Base"
+            ],
+            "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/blob/main/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Chunks",
+                "Sprinkles",
+                "Vanilla Base"
+            ],
+            "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/blob/main/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Blueberry Bliss",
+            "calories": 280,
+            "type": "ice-cream",
+            "ingredients": [
+                "Blueberries",
+                "Sugar",
+                "Cream"
+            ],
+            "image": "path/to/blueberry-bliss-image.svg" 
+        },
+        {
+            "name": "Lemon Zest",
+            "calories": 260,
+            "type": "sorbet",
+            "ingredients": [
+                "Lemon Juice",
+                "Sugar",
+                "Water"
+            ],
+            "image": "path/to/lemon-zest-image.svg" 
+        }
+    ]
 }
