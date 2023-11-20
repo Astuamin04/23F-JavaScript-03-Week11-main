@@ -54,8 +54,7 @@
             "type": "ice-cream",
             "ingredients": [
                 "Strawberry Chunks",
-                "Cheesecake Pieces",
-                "Cream Cheese Base"
+                "Strawberry Cheesecake Pieces"
             ],
             "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/images/ice-cream-xtra2.svg"
         }
