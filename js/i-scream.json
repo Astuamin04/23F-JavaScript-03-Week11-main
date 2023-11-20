@@ -46,7 +46,19 @@
                 "Cheesecake Pieces",
                 "Cream Cheese Base"
             ],
-            "image": "https://yourimagelink/blueberry-cheesecake.svg"
+            "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/images/strawberry-sprinkle.svg"
+        },
+
+        {
+            "name": "Strawberry Cheesecake",
+            "calories": 650,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Chunks",
+                "Cheesecake Pieces",
+                "Cream Cheese Base"
+            ],
+            "image": "https://astuamin04.github.io/23F-JavaScript-03-Week11-main/images/strawberry-sprinkle.svg"
         }
     ]
 }
